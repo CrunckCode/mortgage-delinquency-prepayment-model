@@ -1,0 +1,18 @@
+{
+ "data_source": "synthetic",
+ "n_loans": 60000,
+ "panel_rows": 2185353,
+ "snapshot_rows": 327559,
+ "hazard_rows": 523201,
+ "pd_event_rate": 0.020698561175238658,
+ "split_rows_pd": {
+  "train": 141858,
+  "calib": 19904,
+  "oot": 123395
+ },
+ "split_rows_prepay": {
+  "train": 247330,
+  "calib": 59044,
+  "oot": 210134
+ }
+}

@@ -1,0 +1,15 @@
+{
+  "data_source": "synthetic",
+  "pd_oot_auc": {
+    "pd_logit": 0.7897160622022434,
+    "pd_xgb": 0.8120355459523554,
+    "pd_lgbm": 0.8083307790694692
+  },
+  "prepay_cpr_rmse_pts": {
+    "pp_logit": 4.73621942937103,
+    "pp_xgb": 5.173095897472352,
+    "pp_lgbm": 4.991320634185758
+  },
+  "n_pd_oot": 123395,
+  "n_prepay_oot": 210134
+}
