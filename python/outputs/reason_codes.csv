@@ -1,0 +1,6 @@
+case,loan_id,pd,reason_1,reason_2,reason_3,reason_4
+lowest_pd,46489,0.00028957069337609423,Elevated risk from occupancy,Recent 30-day delinquencies,Falling home prices,Elevated risk from purpose
+median_pd,6423,0.00629091850984367,High debt-to-income,Rate incentive,High note rate,High original loan-to-value
+highest_pd,7975,0.9558822222302987,Credit score lower than typical,Currently delinquent,High debt-to-income,High note rate
+currently_30dpd,7975,0.9558822222302987,Credit score lower than typical,Currently delinquent,High debt-to-income,High note rate
+high_prepay_incentive,10258,0.049168786858088454,Credit score lower than typical,High note rate,Elevated local unemployment,Rate incentive

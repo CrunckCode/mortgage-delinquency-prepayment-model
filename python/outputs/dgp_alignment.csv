@@ -1,0 +1,14 @@
+feature,rank,expected,passed,target
+fico,1,top 5,True,pd
+mtm_ltv,5,top 5,True,pd
+unemp,3,top 5,True,pd
+dti|times_30dpd_12m,2,either in top 5,True,pd
+fico,1,sign -,True,pd
+mtm_ltv,5,sign +,True,pd
+unemp,3,sign +,True,pd
+dti,2,sign +,True,pd
+incentive,1,rank 1,True,prepay
+burnout,3,top 4,True,prepay
+incentive,1,sign +,True,prepay
+burnout,3,sign -,True,prepay
+fico,4,sign +,True,prepay

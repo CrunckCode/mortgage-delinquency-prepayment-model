@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+xgboost
+lightgbm
+shap
+matplotlib
+openpyxl
+pyarrow
+joblib
+pytest
+python-docx
+pypandoc_binary
